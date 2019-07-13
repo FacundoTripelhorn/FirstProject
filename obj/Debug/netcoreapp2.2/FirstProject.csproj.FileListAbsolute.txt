@@ -28,3 +28,4 @@ C:\Users\Facundo Tripelhorn\Desktop\Project\FirstProject\obj\Debug\netcoreapp2.2
 C:\Users\Facundo Tripelhorn\Desktop\Project\FirstProject\obj\Debug\netcoreapp2.2\FirstProject.dll
 C:\Users\Facundo Tripelhorn\Desktop\Project\FirstProject\obj\Debug\netcoreapp2.2\FirstProject.pdb
 C:\Users\Facundo Tripelhorn\Desktop\Project\FirstProject\obj\Debug\netcoreapp2.2\FirstProject.csproj.CopyComplete
+C:\Users\Facundo Tripelhorn\Desktop\Project\FirstProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Products.g.cshtml.cs
